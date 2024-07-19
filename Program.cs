@@ -211,6 +211,28 @@ namespace ManoPrograma
         //    return (skaicius * 1.8) + 32;
         //}
 
+        //***Užduotis 7
+        //
+
+        //public static void Main(string[] args)
+        //{
+        //    Console.WriteLine("Parasykite skaiciu : ");
+        //    string rezultatas = ArSkaiciaiTrys(int.Parse(Console.ReadLine()));
+        //    Console.WriteLine(rezultatas);
+        //}
+        //public static string ArSkaiciaiTrys(int skaicius)
+        //{
+        //    if (skaicius > 100 && skaicius < 999)
+        //    {
+        //        return "Trijų skaitmenų skaicius";
+        //    }
+        //    else
+        //    {
+        //        return "Ne trijų skaitmenų skaičius";
+        //    }
+                
+        //}
+
 
     }
 
